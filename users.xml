@@ -1,0 +1,24 @@
+<users>
+	  <user>
+		   	<ID> 23 </ID>
+		   	<name> John carter </name>
+		   	<Admission_Dt> 25/12/2015 </Admission_Dt>
+		   	
+	  </user> 
+
+      <user>
+		   	<ID> 29 </ID>
+		   	<name> Bob Macshal </name>
+		   	<Admission_Dt> 13/01/1999 </Admission_Dt>
+		   	
+	  </user> 
+
+	   <user>
+		   	<ID> 35 </ID>
+		   	<name> Clack Kent </name>
+		   	<Admission_Dt> 17/06/2005 </Admission_Dt>
+		   	
+	  </user> 
+	 
+
+</users>
